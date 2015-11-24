@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Category>
+<autorun_preloader value="false" />
+
+<preloader_logo url="http：//www.baidu.com" >omg.png</preloader_logo>
+
+<redirect_url type="_self" url="" />
+
+<preloader_text>We are creating your Christmas Gift! </preloader_text>
+
+<open_gift>please click  to open your gift!</open_gift>
+
+<from>From:</from>
+
+<from_name>ONE MEDIA GROUP</from_name>
+
+<message_text>Merry Christmas!</message_text>
+
+
+
+</Category>
